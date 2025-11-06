@@ -19,5 +19,7 @@ Then follow Linux instructions:
 ## Linux
 
 gcc -c counter.c
+
 g++ main.cc counter.o
+
 ./a.out
